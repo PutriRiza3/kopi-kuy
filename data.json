@@ -1,0 +1,85 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "500 Gram",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://kurio-img.kurioapps.com/21/07/06/e0f921c0-97fe-48d6-84ba-60d131b605e9.jpe",
+            "nama": "Kopsus Guren Robusta",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=kopi+susu+gula+aren+robusta&tbm=shop"
+        }
+    ],
+    "noncoffee": [
+        {
+            "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTueOHGv9OspBeBNPxFofT46Qr92K2vwDBvdQ&usqp=CAU",
+            "nama": "Lomonade",
+            "size": "100 Gram",
+            "harga": "50.000",
+            "link": "https://www.google.com/search?q=lemonade&tbm=shop"
+        },
+        {
+            "foto": "https://lifemadesweeter.com/wp-content/uploads/Iced-Matcha-Latte-recipe.jpg",
+            "nama": "Matcha Latte Frappe",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=matcha+latte+frappe&tbm=shop"
+        },
+        {
+            "foto": "https://shottbeverages.com/wp-content/uploads/2020/08/chocolate_frappe.jpg",
+            "nama": "Chocolate Frappe",
+            "size": "100 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=chocolate+frappe&tbm=shop"
+        },
+        {
+            "foto": "https://amagicalmess.com/wp-content/uploads/2021/02/cotton-candy-frappe-13-720x720.jpg",
+            "nama": "Catton Candy Frappe",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=cotton+candy+frappe&tbm=shop"
+        },
+        {
+            "foto": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBYWFRgWFRUYGBgYGRgYGBgZGBoaGBkYGBgaGRgYGBgcIS4lHB4rIRgYJjgmKy8xNTU1GiQ7QDszPy40NTEBDAwMEA8QHxISHzUrISs0NDQ0NDQ0NDQ0NDQxNDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0PTQ2NDQ0NP/AABEIARMAtwMBIgACEQEDEQH/xAAcAAABBQEBAQAAAAAAAAAAAAAEAAIDBQYBBwj/xAA9EAABAwIEAwYEBQEGBwAAAAABAAIRAyEEBRIxQVFhBiIycYGRE6GxwUJS0eHwFBUWI2KC8QdTY3KSorL/xAAaAQACAwEBAAAAAAAAAAAAAAABBAACAwUG/8QALBEAAgIBBAEDAwMFAQAAAAAAAAECEQMEEiExQRNRYSIycUKBkRSxwdHwBf/aAAwDAQACEQMRAD8A9NauprU6UCDaVME3RZohV+sh1kZ8QwqN0y6Voc9gQlQBTuchnlFOwNUPotU5YOKgpFdxDrWR8A8jnloUIqCbKoxdQ8ym5VUklV3c0X28WXsrkrgNlwlXMxEppSTSVCxwpErjimyq2E6SuJSuSpZBELi7K4oQSa4JyShCIhJPIXVYAa1OUbCnqUUsgcO8i2iybSpyUQ6nZUceTRS4IChnIxzENUYikBs4wrtc2TWFKsbI+ALspsYJC5lVOE7FFLLjdZP7jV/aXY2TF0FcK2MkNK4SulNcqhQ0ppK6UxyDCLUkHoDNaxYwkbwq7Jc01CHuEpaWojCajIhoC5cnmqrH4/SJbdZ/Me0Tohu6q9ZBNryBujah44JSsJlmeVA8B/hPHktgzHsIB1BbYs0Zq0FchcpKFmJa7YpLe0QsmJ8qNqdKsZklGpBRpdZVZdBRLH2VG+SyXBM56FquSc9ROKtYKOBceF1cKhAGth5XcLSgoiobKOluq1yXvgMCRXAuFWKCKa5dKhr1A0E2mCQJ3gKkpKKtlhxTHIXB13vgvGnuh2kcZsJPDaYH5m33RTlnGamrXRECY+nqYQvP8VLHEC0FekubIWRz/JzJcEhrYcqX8kkrKV2PIZcqvwLXVqp/KLqVuHc92mFpskysMHmsMONX12aQwuSt9Gazx3wmg7fdULs7qEQHFo816XmWRsrb8Nl5z2jyZ1J/dFiU9BRSpcDcIRiugnI+0VRlQAukEHfyJSVNlWXPdVFuBPyKS1Ve5VqN9H0O1dKYwpybOeRVzCjo15UmI2QVE3QfZZB+pOUTSpAoAS4U5ccFCEFRMp7p9RUuZZwKVmaXPG7eXnCxy5I41cuiz4RoguELGUO0WIcfwQZgafvKt8DnDzGtrTI4SDPqsFr8Le3kpZdlZfF43XXgua2A3SDBsXiSLbwAeO6ua+YsdTe5m7e6ZtpmxJ5gTuFlKr9NVr2ySdLg1u7u43TaDMkcknr86lJQi+KsjZqsv0w6PwnR07ndjpsZ/hRaoezuNaHPw+oOezvF0+J344vNnGRwghX6d07vGjSPQ0qtx7gbKyqbKhrOl6GolSoZ0+PdLkHp5e0GQES4ECyLYyyTyIS8VtQ3sXQLSxMbqozWmyo66OxDJKBrUSsZZZdDMMMewWlhWNMgXSUjaZ4rqr6rLemvY3jHqQFBU6qmbVXePOj8QbKupu7yMqvsgWeJVYUHsKmYhmFEsKJGhy45KVx7oChKIaix+Pys0y513NcSdR3k81r69J5gNMEgEwAYF9524KCrVa1hL+9Y92JceEfvbdJarHHLGm6rya+jKS45fsYDC1TMcFrsrwhIDnmRwAEBZHMC7U55ps0Nh1KiH21Se9W7p71u7uJtbcWDKNV9A1cTiA0BpcyhQeWs4x8So0y832B0+a50cCT3NqjKWNx7C8xxLWgcCRULgHEEtazwETHEHZVlXEaWmoC5oYHNhrZMNkggusLbTKrqOaNqUGFzQDTeQ0saIAgS14NjMz69EOM7p3Y+mBT1F7wJJe5t2COFwBJJgbQs4aduVP8A7kpQT2fx7KNdtSpq7wfDWulzRHiePxEybcd+C2OJz8x3BoMEw6C6I4NHvxXl+D1Vq2t5azU7UeAAGwaOQEALSOzGmzYgm95LnOPVw2W+aeSC2Qf5oNsuv7eraHS5hBcdLiCHFu+x347BVuIzwy4tc50cmgA7beRn0VOcwcSXEy53iMHbkJ2CaMRBtvvPXoFk1N/c2/3CpyXTZoafaN+ppcNTXTYADbqTbf5K1wmPbVBLZERII2nrssVRpg+InfjyRdGk4vDmSHSILeHn05yjurixnBqZxkk+f7mrrVIQmuU4uJjVE8Y2nomwlpTbfHR6GEVQ7SkmyUlX1UX2mianhyI+GuGmvS7meXpEL3qKnuiSxRhl1LA0SMRDSo2NUwCtZAd+KAMblE02SbuBJFhFgVTig4OmJG8+s94KzoYwXMaXDbi0idwdwfRYLJb5GpYlFccsru0maGkG0mkanNJcR+EEwI5Gxv0WfwoJcXBzomTcgnz6qLtPiNWKdfYNg9NINue5TcJVGh0dJK5Wpm5ZHfS6O/ptMsenTXbVv9yfMcJSe3vCSdpkzv4uPP3WSxVCoxpZZjCZLGS1pI2O5nbclaP48mPRqhzggsbPGVI5Glx0Whiipcq7KHIqbXF9Nuovc0OMNaQNBMlodu4An0Lui0dfstSqUQQ17C0mDMufzBkbXss72deW42nosS4tg8nNIJ48L+i9Iq1nCGtaHG95284FlvO091+Dn5tLCORpJcjcqwtIM0NpBkCC1zQSRzk7hPfkOHcS40myTJ3APoDEX2UmDYQ4F0SZHyVit8X1xVo52oxxjOl0Y/Ncgot8ALeniB9Dt6FAtyVhdLXd2btIm3GHBXGf1LoChWSWaSjPaOYdJjnC2iP+w2AyC6Py25Qbi6lZQawQwR1Nz7og1kNVrSlsk1XA5h02ODtJWda9S6whQU+UspNDbiESElBrSVtwKN0WKNzUY5qicxepaPKJgxCjO6KexC1BChGTsKfUPdPkhqb1JXf3D5Iy4i2CCuSRDhnjiLfuFLWaNRgW/nND0UaXiPRKY1a5H58O0YrtZTh7XHwuadty5sxLtzZ23QqsyyoCS2dwQB57SVr88wfxaLwLOAlp27w2v1mPVefYOsWG4hzTEGbFp4pLPDmzu6OayYdvlFhTf3vDsDxt+WCOMg/JB5xUgtbJs0TexmTZWWpoedoInht4isriqjqj9LRLnuho5lxsOn7LPFFyf4GEkm5PouewuANXEl+7KQJuLFzgWgbdSfRenEWjgqbs3gG4ai1gu7xPd+ZxAkjpYAdArwEJ5NNcHE1E3Obl48AmiHDki3uACExL4uqivmTtOytiajaFc8XJxYPnBBeq/ZDYjGEuMrgrrl6ipSbOrgi4wSJ3PXAojUTHVEttYxYTqTS9DiomVMRCKgybgg1F1VlTFJLT0mDfE9lhKEgU4L0tnkyFwQ9SlKNLFz4alEKs0imVhZWxpIHMgGgdT9iqZHUGaYlc0AfEiPNFMcqyu+SI5qQP6rmrJTZ1nitIJxbu64eX1WI7U5eQPjtF7CoOnB3nsD+y2IbIvJSNMRtM8N/RBpuVmuHI8LtHnGMxI+FMgFzWsHnN/WB81a9i8lt/UVB3nD/DB4NO7vMiw6TzVkOy1AP1EPLQdQpuJ0A8bbkdCeELQPp2sglti0hjNqVNbY8JjmEIhrggQFLTPVSMxOUQitTkE9FWY7CAMJ9VY1Kmoaf5C7XpaqQ8oTWJKTaXsLZG4037nmbnS93mlWqRsuZthnU6jvdBYVjnvHdJ9EjLE9zs7cNjgmGiqUjVReIy1+iQ1UdV5Bg2Kosb8qjGc6+3kNfi4QNfFkpjnSonMWsYRQtKU30Mq1uqSVLKatW7G25pJpY1QjPJKz6E+GlCkLk0roUc+xq7K4F0hQh1U2evuwf9x+itwVQZ8/8AxGjk36n9kvqHWNjOkjeVfuCC5XSuMhEU2hcza2deToJo0pau6IN7CN0yliALKb4gPFNpxr5FZKV/AHrEySTt3RsLXv8AzdSOqAhcqi6jcybBYSk7dGiSIdSQKmGHTm0lkoSvk0cokJqEAxyVplzdVIeo+arKlK6tck8BHJ37prTNqfPsLatJ4rXuiszLJGvNwpsJkbGtgNAV28JF4AW2XNjg+exJZMjVXwVhwTYiF5920yjQdbB5wtdie0TG1SydlzHYllVsWKCnDJBPyXxTnCV+DyVgdyKMy3COfUa0i25W1fg6Q/CEmPpMMwB7LLarG3qOKRbYTDMpsEiElSY/ONYhuwSWvqxXAv8A0+aXNM9IJTmpoXZToiPhcISAXIUILSsvnZmsegaPv91qgshmZmq89Y9gAltW6gvyPaBXkb+AOiTrOlsiAS7YAeanfXvZQf1DgC3hM/LZDvqht3EALlTmkqidiMHJ2y3ZU5rjzOxhQYd4c2QQR0SqPhGU6XJnt54HNF4Lj7x7wjKdQCyrmFTAA7qmOddElC+yw1pOqwhG0wpNIGyYUmzBxRKdiUZkj7OHUH+eyr3OtC5hcYKZJcYBESpLJt+pFMkN0Gi8qvuqbPczbTYTN4QeOz5sHRc9FnKuFrVzLpjkuenLNPnoXUNqKWjitby48TK0OEqiE7Cdmo3CuqGTtaF0oQ9kVbrsosSQqjGOW4OWs5KuzbJ2FhgXWkouuC+CUfUW7oxrswa0RxSVHmVNzXFp4FJRQtHYeaK4PoyEg1OXCV0jyx0BMe4DcqlzbtIyl3QdT/ytuf2Wbq4zEYg3cWN5N39XKWRRZrMXnlJhjUJ5bn2VBi3y5x5mfdPwOTtaNUSd5O6rq+Kg3SWsbpI6X/npbmyOq5V2KaSTuR8kWcS0rj7gxe2y4sm93J3sbS5RW5diXUX6d2O4cj0WkHeWOfUBMGxn1kLR5TjA5onxNsf1Wjt1YM2OvqRYCFPTCh1ibSkXkCxVopR7FWmw1rgE51YR1Oyrvjc5UTapJnktVkSXBT0bD3vUD6QqEM5/ZQurQCSZUWBxYNZhFrx8ijCS3pP3RJ43sf4YWzIiwyBKNZU02c2FaiounSdwus9PB8pHB9WXkFpV2FTFsqOrlzTdpgqJpfTs4SOajxUFTTJdCbUoAhS06rXbFOcyVTaX3GLz3sqKpkWKS2RpJIbS/qv3LdxgSsb2g7ROc40qB2MOfy5hvVE9rs4LGiiw99/H8reJVNlGXTFkw34Qsl5YzK8qLjJkk3JNyepK1uCy0NGyIwmEDAAAjWhWjGispNkL6YDD5LzvHvXo+IPdPkvO80aGVm6o0OMydvIpTWQcoprwM6Sbg20VVKm9zgCCCdp5HYo/vUzBuOasnPFRxJDZYWNbH5iG6p8to6Kjz+s6m8tmZAPoVx5Qb6O3p9Vjy0nwwPPGtEPaRB8XR3P1QmVZhDwZgbO5EHb5pjHa+6djZAHJqwNtPQ6onlZbQjHbUnQ76nFJWjf/ABwFE7F3hVOs6QHOuBeE0EtZ8QNOnVon/NGr6JRQk7pk2wTV+S4djOC5/VKl/q/L3TsNiQTcqNTSNFiiWb3zcoOlX0PaeTgfmuvrAblD1agA1e3mVMe5SspPGtrRvaWOaQLohlYc1jcHXMeSssNiTwXehnb7PMZMNPg0rKqKpVgbOCoaOIKNZWTEZ2YSgT47Lra6diLxzQuAzHXLXWe3cforDD1iN9lT59hSIr0/E25A/E3iEJK+UCLrhlrrSQeAxjarGuaZBEpLKy5l8a81cZVJ2YQweQWuybDgNlY7DPBxVYRB1TfoS0n3C3WXxoC3j22ZSf0pBwCcAh6zi0zNuQi/GQVMxs8T7wrmYzEMkQsP2mwrmgteLcD0OxBW4eSDDoIP4h9whMzwVOszRUMflcDdp+4VJx3KjfBlWOVvo8/w2J0Ne59wyHz+YkER5zCz+Mx+t5cbl0TyFogeyuc9yaoxpa4FzJ8bLixsTGyzWGoGXAtJDeO65s8ajbOl6Cct0HaYZhReUaaqrx3T05InAj4hMWDZJPCwmPLmeEjmEp6TnLg6uFrHGpDqjHETwO3M+QG6p8zxVRjNLXHTu4CRsZW+xWXBjGk0zql34QZDdhpLmwIaTYTaeK8+xthoIE3dqE3LgC0ETYx0nhCbWn9Nq+SOWPUY5Lyumu0wGjWLmk94gfiJG52jibAzysFPhsWWcb80MWODdJBGklwAG2od6QBfwt8oKmy/Dmq/SzvOi7QDIjcwtJxi034FMGWWJ7ZXbfbNj2EfrxPeGoBjjBuJJaOPmtrjuzFCo/Vo0QQQWHSCerY0m6x/ZjBf09Vhc65lukGY1baj5gL0HES4NI2Sje2+OuUYazJL1U4y7VOipPZsN8FQf6on3b+inZlWhkAgncm/ylHMtZJ7+CEdUkroUak+2C0cJHiaVLUp8A2BzT2Gd0SxyYhq4yXJlKLQGKkW4Dj1Tw8FpbwP3RzGtJgt36D7qDHNa2zQAT7xv9kxHMqv5r+TN+xgcjxxpVa1HhTeYHR1/ukqTD4kOxtZzAS1znGZFotdJZzk06NI9G2rZIRjH1BqgEy1kS7X1Ng0XcT06rSYbCuYNy7kDHdtxgXQHaGs+k8V6YnQC17fzMMfQgFT5RnrK4htnC7myJb1jcjqE/FoWdljReJh7bxOmbcrfzii6RkbAdFVVqmoiJtcGIg8R1U9R77Fp4id5I4i2ysVD3Ur2UGIYLiQmvotfBc0aojqR6IerlrL2N2kWceP+5Q5IqE9gsgsXkdF8k02ajxAgnzjdTU6DWDQHEADu3MiT3gZ3HLiERTcWva7VIcNBB2BAkOA52PuhKKkqki8Zyi7i6MjiezLLyHNidnCBG86gVm6bi1s0tQBbJAEeIQHOdsW+Md2+wut/wBr8SKeHquabv7g2F3z+68wxWIDoaXAjfvOcTs64Y2zbTLfOEpOEIS+lcne0E55oOU3augjH5hiazXh8unSLEtaDMwxosRpGm/MkqqzAA/FcQDL2xpdDQJfMzIkwd52ceKZVqkT3YIOme+HFpaAIOqQQJHDfc8K6pXNtTmwXOnTI3hpJi8QJHkearbZu5xxp7VwLG1gS6ARYgzvwMnrM+/RLJ83+A8yHaHWcAQDP4TJtwv+yAqVZ6HnPSL3/klEZSwurU2i5NRkcvEL/f0V1FJciWoyufRssFntJw7jGA2kvrNG/EANLnHo0Em3NehZdiI7jrg/zZUuAy3DsdrZRpsdzaxoPpAt6KyqUtQ7pIPAjcLOeLdHjtdf6Zz5Sf6i3xDtLZaJ67wgWPJPzSw2McwAPk8JDTB6kCY+iMa6k8giPS2+8wuZl07cu6+H/gMcqiqfPyDsN0Y1vHmnNpMt3vmosXUYGh2oNDL6iYAgESfcqQ07im21/JJZU+grUGCXWWT7X5+MPSc7V/iPBYwcQD4nen1QOedsWsYXMDn/AJS46dR6A3a3rueAXlmY5jUxFQvqO1OcbDgBwa0cAE/p8bdPpLr5fuYt1+S/7MUtUniSSkj+ymFAAmeNkkcjW41iuD1+swGVg+0uQGm41aIJZOotb4mH8zI4fTy235ZCirU5T7RhZ5ngO0NemQfiF7BYtfL2kGNyO83zE+RW3ynP2YjS0AscYkEyJg3Y8WcDG1iOSpc97MB8vpd1+5GzXefI9R6rHuc+i+4cxwMgi1xt0KilQHGz2JuGqSCXsMCPAZ+qJFM8XTzt+6xWF/4gsaxvxKby8CDo0kEjiJNkRR/4gYdxgsqNHM6SfYFX3IptZparmg3bKeGSJjbaeHXzQOBzjC1YLazZ/K46D7OhWrSOG3Q/dEBl+22De+hDYlsPaN5LZt5w4ryXFYhwEajE7SIg3kW34+vCF7vj6bSN5KxWe9laVaXAOY/iWxB592LE8wsMuJye5HR0es9KLg+jyqvinGxnaLknhtfyBQeIqlxlxkkkzO56raYzsU8Wa4ngSR1tsUJ/cupxn2VIxrwa5NQpdMx7nq/7M0C14qEXAIaOU21fUeqvMN2LcNx91fZf2aDDO/COiMotqkKvJz2LL8Y4i5WiwVQkT9YQ9DKWi7R5j9Ee4sYJe5rR/mcB9UIRlHspOSYXTcCLiPLZO+E08Gu9p/VZ7G9q8NT/AB6zyaLe5j5SszmXb9xkUWBvI7n3I+y1dNcmNG9xYpMGp7tAGx1ub6AA38lg+0fajDiW0mmo4bOe5zmtPNrCS0evssfmOc1axl73O9Sq2SbASs/Shd0i1k+Oxj6jtT3E9EdlGVue4HidhHzT8pyZzzJ+f13W9yTs+GQe7PEblCcv0xLxj5YzJsucwSRe46QktS3CgACPdJY+mabjQlJzU+E6U6LAr2dFWY/J6dUQ9oPorshRvaEGgpnm+a9jHNJdRdI5H7FZfF4SrTPfYRHGJHuvbXU5/m6Fr4FrrOAPmP1VWmGzxMV/5P6ojD5vVZ4HuaOQc4fQr0jMOyVB8ksAJ4i30WcxPYL8jyOhuhuoJWM7YYkfjn2P/wBIqn28q/iY0/6R9iq7E9isS3wlrvkVS1cnxAMOYZnTvEnkju+QV8Gv/v8AnjSYfQ/ql/f/AP6Tfn+qxz8nxA3pOUf9nVv+U/2R3L3JXwbJ/b08KTfmga/bqsfCGt8mt+6zDsFWmPhPnyXf7LxB2pP/APEoWvclFjie1OJfvVeAeRgewVXWxb3GS8knqjqXZjEuglhAPRWGG7EVXEanNAPUn6BDdH3DtZl3vTWse7wtK9HwXYem0iXF/wD6+fNX+C7OMZ4GtHmJKDn7IO33PLss7N1KhuCPO3yWuwPY9rInfykdZ5ea2Lcv5npyRLKWnjKzblLsslFdFZhsuYxoa1gBsZjkrWkwATF4v/spWUwVKGQiogbI6T7JJ7XRwH2SVwFhqM9FHUqQVG154x5pxfK0spQ9tSU0OulEXB91G97gDYINhSJQU15i/wB0xr5EgJrHxYxCFkocKnQrgbKlDAV02uoQCrUOP4tp4oFlE6iDPIEgfVWj3c1CGSqtWXRCMM2Lgey5/SNjwhGUmcwFI5oMWFtlNqA2VjKA/KJHKPqk/BiZ0wedlZOaeF1xtN0TF/NTaiWAMw8COamp0DyRjLjvASnQFFFEsEdTjgnMYp37KH4kW4lSkQ46nyCYafOf51U4J4ldLiOE+qlEA2sIubAe/qpQ611I4pNYFKJY1jRxMrikISRIKj4W+QXKnFdSRYF2R0TdTvSSQj0RkVQ2Q/GUkkH2FFg3ZcKSSsAc9gjZQJJKMiJHJzUkkCDiuOSSRAOconpJKMiGqN26SSqyyE/cKRySSJCMbpxSSURBFJJJQB//2Q==",
+            "nama": "Strawberry Lemonade",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=strawberry+lemonade&tbm=shop"
+        }
+    ]
+}
